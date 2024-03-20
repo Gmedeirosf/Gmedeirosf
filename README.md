@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 
 <div style="display: flex; gap: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" height="50" width="50"/>
 </div>
